@@ -11,17 +11,17 @@ Caja eurorack imprimible en 3D de [piruetas](https://piruetas.xyz), hecha en Ope
 ## Características
 
 - 48 hp de ancho para módulos 3U, el máximo par que cabe en la cama de una Bambu Lab X1C.
-- Medidas exteriores: 248.24 × 132.8 × 49.4 mm.
+- Medidas exteriores: 248.24 × 132.8 × 94.4 mm.
 - Rieles arriba y abajo con agujeros piloto cada 1 hp, donde los tornillos M3 de 6 a 12 mm hacen su propia rosca en el plástico.
 - Rieles con chaflán de 45° por debajo, para imprimir sin soportes con la base sobre la cama.
 - Sin lip perimetral: los paneles se apoyan solo sobre los rieles, con 0.4 mm de holgura en el asiento.
 - Agujero de 90 × 20 mm en la pared izquierda para pasar el bus de poder, por ejemplo [chufebu](https://github.com/piruetasxyz/chufebu).
-- Profundidad útil de 45 mm desde el piso hasta la cara inferior de los paneles.
+- Profundidad útil de 90 mm desde el piso hasta la cara inferior de los paneles.
 - Nombre y versión grabados en la base.
 
 ## Revisiones
 
-- `v0.1 rev-a`: octubre 2026, primera versión como repositorio propio. Misma geometría que bote `v0.0.11` en popusintes-cajas-paneles, donde vivía antes.
+- `v0.1 rev-a`: octubre 2026, primera versión como repositorio propio. Misma geometría que bote `v0.0.11` en popusintes-cajas-paneles, donde vivía antes, pero con la profundidad útil de vuelta en 90 mm (en `v0.0.11` era 45 mm, para una prueba).
 
 ## Desarrollo
 
@@ -71,7 +71,8 @@ y después volver a exportar y revisar que la caja no cambió sin querer.
 
 ## Créditos
 
-- Aarón Montoya-Moraga: diseño, fabricación y documentación.
+- Aarón Montoya-Moraga: concepto, programación, fabricación y documentación.
+- Bernardita Jesús: revisión de parámetros, pruebas de fabricación, programación.
 
 ## Licencia
 

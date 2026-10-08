@@ -9,7 +9,7 @@ include <./versiones.scad>
 
 // profundidad util para los modulos, desde el piso hasta
 // la cara inferior del panel
-BOTE_PROFUNDIDAD_UTIL = 45; // PORHACER: volver a 90 despues de la prueba
+BOTE_PROFUNDIDAD_UTIL = 90;
 
 // cuanto entra cada riel desde la pared, deja ~116 mm libres
 // entre rieles para los pcb. el agujero piloto termina a 4.3 mm
